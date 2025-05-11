@@ -1,0 +1,14 @@
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.AssemblyInfoInputs.cache
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.AssemblyInfo.cs
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.csproj.CoreCompileInputs.cache
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/bin/Debug/net9.0/Week1
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/bin/Debug/net9.0/Week1.deps.json
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/bin/Debug/net9.0/Week1.runtimeconfig.json
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/bin/Debug/net9.0/Week1.dll
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/bin/Debug/net9.0/Week1.pdb
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.dll
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/refint/Week1.dll
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.pdb
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/Week1.genruntimeconfig.cache
+/Users/elenacastro/Desktop/University Classes/Summer 2025/C#/Week1/obj/Debug/net9.0/ref/Week1.dll
